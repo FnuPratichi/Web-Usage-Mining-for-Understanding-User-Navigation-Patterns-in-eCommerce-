@@ -10,3 +10,7 @@ Recommendation using clustering
 Recommendation using Association Rule Mining
   ![image](https://github.com/user-attachments/assets/9faa5471-e029-4f56-b3f1-8ceeeb1f3bfb)
 
+User Journey
+![image](https://github.com/user-attachments/assets/37b22318-891d-4780-bcf1-97cd65c23fe3)
+
+
